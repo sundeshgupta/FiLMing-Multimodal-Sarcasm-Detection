@@ -1,9 +1,8 @@
 # FiLMing-Multimodal-Sarcasm-Detection
 
 This is the code for the paper:
-
-## FiLMing-Multimodal-Sarcasm-Detection
-*Sundesh Gupta, Aditya Shah, Miten Shah, Laribok Syiemlieh, Chandresh Maurya*
+#### FiLMing Multimodal Sarcasm Detection with Attention
+*Sundesh Gupta, Aditya Shah, Miten Shah, Laribok Syiemlieh, Chandresh Maurya* <br>
 To appear at ICONIP 2021
 
 If you find this code useful in your research then please cite
