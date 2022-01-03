@@ -1,12 +1,11 @@
 # FiLMing-Multimodal-Sarcasm-Detection
 
-This is the code for the paper:
+This repo contains code for the paper:
 ### [FiLMing Multimodal Sarcasm Detection with Attention](https://arxiv.org/abs/2110.00416)
 *Sundesh Gupta, Aditya Shah, Miten Shah, Laribok Syiemlieh, Chandresh Maurya* <br>
-To appear at ICONIP 2021
+In the Proceedings of the <i>28th International Conference on Neural Information Processing (ICONIP 2021)</i>
 
 If you find this code useful in your research then please cite
-
 ``` 
 @misc{gupta2021filming,
       title={FiLMing Multimodal Sarcasm Detection with Attention}, 
