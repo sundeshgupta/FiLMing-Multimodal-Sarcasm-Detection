@@ -7,13 +7,15 @@ In the Proceedings of the <i>28th International Conference on Neural Information
 
 If you find this code useful in your research then please cite
 ``` 
-@misc{gupta2021filming,
-      title={FiLMing Multimodal Sarcasm Detection with Attention}, 
-      author={Sundesh Gupta and Aditya Shah and Miten Shah and Laribok Syiemlieh and Chandresh Maurya},
-      year={2021},
-      eprint={2110.00416},
-      archivePrefix={arXiv},
-      primaryClass={cs.MM}
+@InProceedings{10.1007/978-3-030-92307-5_21,
+author="Gupta, Sundesh and Shah, Aditya and Shah, Miten and Syiemlieh, Laribok and Maurya, Chandresh",
+editor="Mantoro, Teddy and Lee, Minho and Ayu, Media Anugerah and Wong, Kok Wai and Hidayanto, Achmad Nizar",
+title="FiLMing Multimodal Sarcasm Detection with Attention",
+booktitle="Neural Information Processing",
+year="2021",
+publisher="Springer International Publishing",
+pages="178--186",
+isbn="978-3-030-92307-5"
 }
 ```
 
